@@ -1,6 +1,5 @@
 # Bank_Management_System
 
-🏦 Bank Management System
 This Bank Management System is a terminal-based application built using C++ with Object-Oriented Programming (OOPs) principles. Developed in Visual Studio Code, it simulates essential banking operations and serves as a foundational project for understanding file handling, class structures, and basic data management.
 
 ✨ Features
